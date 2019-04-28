@@ -9,11 +9,9 @@ function App() {
   return (
     <div className="root">
       <Router>
-        <p> </p>
-        <center>This is our app, bitch</center>
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route path="/BarcodeScan" component={BarcodeScan} />
+          {/* <Route path="/BarcodeScan" component={BarcodeScan} /> */}
         </Switch>
       </Router>
     </div>
