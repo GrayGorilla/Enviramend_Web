@@ -1,3 +1,11 @@
+# Enviramend Web Host
+Web-based host for downloading full Enviramend android application.  
+Repository for android application found here --> [Enviramend for Android](https://github.com/rtodd001/Enviramend)
+
+## App Preview
+![image](https://user-images.githubusercontent.com/43688010/161873358-5e34fa06-08fe-4503-ab8c-7a0d0d40d42e.png)
+
+## How to Run
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
