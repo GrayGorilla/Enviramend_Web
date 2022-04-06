@@ -9,7 +9,7 @@ function Home(props) {
     <div className="Home">
       <header className="App-header">
         <h1 className="title">enviramend</h1>
-        <a href="./enviramend.apk" download>
+        <a href="./enviramend.apk" style={{textDecoration: 'none'}} download>
           <Button variant="contained" size="large" color="primary" className="mainButton">
               Click to Download
           </Button>
